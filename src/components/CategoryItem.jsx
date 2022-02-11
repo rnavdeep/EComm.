@@ -5,8 +5,8 @@ const Container= styled.div`
 `
 export const CategoryItem = () => {
   return (
-    <Conatiner>
-        
-    </Conatiner>
+    <Container>
+
+    </Container>
   )
 }

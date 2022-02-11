@@ -11,12 +11,13 @@ const Container = styled.div`
     display: flex;
     position: relative;
     overflow: hidden;
+    background-color: #c3dfc3;
 `
 
 const Arrow = styled.div`
     width: 50px;
     height: 50px;
-    background-color: #b1dbff;
+    background-color: green;
     border-radius:50%;
     display: flex;
     align-items:center;

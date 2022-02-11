@@ -8,7 +8,7 @@ import { Announcement } from '@mui/icons-material';
 
 const Container = styled.div`
         height:60px;
-        background-color: #8fcddd;
+        background-color: green;
 `
 const Wrapper = styled.div`
         padding:10px 20px;

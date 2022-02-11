@@ -2,7 +2,7 @@ import styled from '@emotion/styled'
 import React from 'react'
 const Container = styled.div`
     height:30px;
-    background-color: green;
+    background-color: grey;
     color:white;
     display: flex;
     align-items: center;
@@ -14,7 +14,7 @@ const Container = styled.div`
 function Announcements() {
   return (
     <Container>
-        Super Deal! 50% on iPhone10.
+        Super Deal! 50% on Puma trainers.
     </Container>
   )
 }
